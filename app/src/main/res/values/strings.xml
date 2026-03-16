@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Icon Pack Maker</string>
+    <string name="welcome_title">Selamat Datang</string>
+    <string name="import_images">Impor Gambar</string>
+    <string name="import_zip">Impor ZIP</string>
+    <string name="edit_icon">Edit Ikon</string>
+    <string name="preview">Preview</string>
+    <string name="export_apk">Export APK</string>
+    <string name="metadata">Metadata</string>
+    <string name="app_name_input">Nama Aplikasi</string>
+    <string name="author_input">Nama Penulis</string>
+    <string name="version_input">Versi</string>
+    <string name="package_name_input">Nama Paket</string>
+    <string name="resize">Ubah Ukuran</string>
+    <string name="crop">Potong</string>
+    <string name="rotate">Putar</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="next">Lanjut</string>
+    <string name="back">Kembali</string>
+    <string name="success">Berhasil</string>
+    <string name="error">Kesalahan</string>
+</resources>
